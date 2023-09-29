@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_brightnessRampRateFast">0.41587824</item>
+    <item type="dimen" name="config_brightnessRampRateSlow">0.23228346</item>
+    <item type="dimen" name="config_screenBrightnessDimFloat">8.54597E-4</item>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.09998169</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">8.54597E-4</item>
+</resources>
